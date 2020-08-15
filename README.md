@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://knowankit.com](https://knowankit.com)
 
-- 📝 I regulary write articles on [https://blog.knowankit.com](https://blog./knowankit.com)
+- 📝 I regulary write articles on [https://blog.knowankit.com](https://blog.knowankit.com)
 
 - 📫 How to reach me **https://knowankit.com**
 

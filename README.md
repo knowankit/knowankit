@@ -5,12 +5,4 @@
 
 - 👨‍💻 All of my projects are available at [https://knowankit.com](https://knowankit.com)
 
-- 📝 I regulary write articles on [https://blog.knowankit.com](https://blog.knowankit.com) (In Development)
-
 - 📫 How to reach me **https://knowankit.com**
-
-<p align="center">
-<a href="https://linkedin.com/in/knowankit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="knowankit" height="30" width="30" /></a>
-<a href="https://instagram.com/knowankit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="knowankit" height="30" width="30" /></a>
-<a href="https://medium.com/@knowankit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@knowankit" height="30" width="30" /></a>
-</p>

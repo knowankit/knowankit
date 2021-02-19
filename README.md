@@ -4,5 +4,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knowankit" alt="knowankit" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://knowankit.com](https://knowankit.com)
-
-- 📫 How to reach me **https://knowankit.com**
